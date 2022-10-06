@@ -1,0 +1,12 @@
+{
+  "name": "fullstack_music",
+  "version": "1.0.0",
+  "description": "- fullstack 全栈\r     1. 前端方向 vitejs/app 工程化生成单页应用\r     2. 后端使用 开源的Neteasecloud\r         - .git 干掉\r             同一个目录下不能有多个git \r     3. 前端和后端怎么交流\r         axios api ->\r         frontend 8080 ui组件 需要数据 (fastmock 假数据)\r         backend api 接口 \r         前后端分离",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
